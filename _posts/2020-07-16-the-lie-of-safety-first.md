@@ -5,9 +5,29 @@ title: The universal lie of "Safety First"
 
 ## Safety first
 
-{examples}
+>Your safety is our number one priority. Please ride your motorcycle responsibly, safely and always obey local traffic rules.
 
-How do these quotes make you feel? Safe?
+[Source](https://cache.tradeinn.com/images/pdf/manuales/eng_akrapovic_manu_S-H10SO7T-HTC.pdf)
+
+>Your safety is our number one priority, which is why we’ve introduced a new barrier system at the Main Stage. The primary barrier is not a golden circle but will have a restricted capacity.
+
+[Source](https://www.instagram.com/p/B1f9zdpF4vZ/)
+
+>Family and friends are mourning the death of a construction worker, killed after he was hit by a steel beam in the Twin Peaks Tunnel in San Francisco on Friday. Loved ones have identified him as 51-year-old Patrick Ricketts. “Safety is always our number one priority,” said San Francisco Municipal Transit Authority (SFMTA) Deputy Spokeswoman Erica Kato.
+
+[Source](https://www.ishn.com/articles/109246-safety-is-our-top-priority)
+
+>“Qantas would never operate an aircraft unless it was completely safe to do so,” Qantas said. Having looked at a photo of the mangled door, it is hard to imagine how they could tow the aircraft out of the hanger.
+
+[Source](https://simpleflying.com/qantas-door-ripped-off/)
+
+>“Safety is our top priority, and while we respectfully disagree with some of the report’s findings, Fox thoroughly reviewed its stunt safety protocols immediately following the tragic accident and has revised and implemented enhanced safety procedures and enforcement,” the spokesperson said.
+
+[Source](https://variety.com/2019/biz/news/worksafe-bc-report-deadpool-2-joi-harris-fox-errors-1203356611/)
+
+### How do these quotes make you feel
+
+Do you feel safer? Or did you roll your eyes?
 
 Do you genuinely believe that the safety of staff and customers is the first or only priority for these organisations?
 

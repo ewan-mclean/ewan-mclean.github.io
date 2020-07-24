@@ -3,13 +3,12 @@ layout: post
 title: How to end a meeting
 ---
 
-# How should we end meetings?
-
 I know the answer now. With many thanks to the original source **[David Perell](https://twitter.com/david_perell/status/1280649978835132418)**:
 
 >End meetings with five minutes of silent writing time.
 >
 >Answer the following questions:
+>
 > * What are my top takeaways?
 > * What are the next steps?
 > * What questions do I still have?

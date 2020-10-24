@@ -23,6 +23,7 @@ Here are some of the sites and services I use across the web to make my life eas
 * [ExpressVPN](https://www.expressrefer.com/refer-friend?referrer_id=16245288&utm_campaign=referrals&utm_medium=copy_link&utm_source=referral_dashboard)
 * [Sync.me](https://sync.me/code10/GAZQE)
 * [Marriott Bonvoy](http://jmr2.netlinkrg.com/rewardafriend/s/EN?ref=f9c392ee-2741-487c-af39-57996c115f5b)
+* [Gandi](https://gandi.link/f/3360f9b3)
 
 ## Freshworks suite
 

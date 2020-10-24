@@ -24,6 +24,7 @@ Here are some of the sites and services I use across the web to make my life eas
 * [Sync.me](https://sync.me/code10/GAZQE)
 * [Marriott Bonvoy](http://jmr2.netlinkrg.com/rewardafriend/s/EN?ref=f9c392ee-2741-487c-af39-57996c115f5b)
 * [Gandi](https://gandi.link/f/3360f9b3)
+* [Cloudways](https://vrlps.co/PUqIZeV/cp)
 
 ## Freshworks suite
 

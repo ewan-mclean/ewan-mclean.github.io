@@ -15,7 +15,7 @@ Here are some of the sites and services I use across the web to make my life eas
 * [Moneydashboard](https://share.moneydashboard.com/4SD2K6BV)
 * [Apple Music](https://music.apple.com/profile/ewanmclean)
 * Microsoft's CSP programme. If you'd like to become a CSP without all the overhead, get in touch and I can set you up under my platform.
-* [Twilio](www.twilio.com/referral/C5whw3)
+* [Twilio](http://www.twilio.com/referral/C5whw3)
 * [answer.co.uk](http://www.answer.co.uk/?refid=DV0VBTMNJ)
 * [Krystal](https://krystal.uk/) Enter code EFFECTIVESOLUTIONS at checkout
 * [Evernote](https://links.messages.evernote.com/u/click?_t=84bd64b57134499c9e3dacd6d3ed435a&_m=274b816b309c4412b1827ba6deecc340&_e=93tdma_JEa2OiKrYNOUVCF536nea8FJn5Mmpjct55yiufpTa2deEMIuY8Ufr9X8pPvky12J3GiCb6xPDLpIDNDlZSywUTjpXgB8ottEGl5V4No7FkpL18OnRTd3NQk8J6oNy8mn0Arfd2Eq381pa_JSNxNBrpGoF0SCh3BSFMHYPGvhDMI6pcn_d2G8Wm2BElckvYJGX-HDx8DwhVW3V8Q_ePpyS_949wQ7K2nBePvfgvKkD5ZtMnPLVRfupEfSRmr5DSFrd8vGq_UkBlH0SMUCZLA7FaUZR4kwNrKmz2jxshq6KSWKowsPEncD2OSNA9xXUXtRx40qY_CMyCFx0mnKN0sOJSGu6KlsoVl13s5H2Qy6VUU2WODpXwLOpUl3qcHEbazgqH1Jj4itq2tEc5D0WnXqifyI2DehBHe58YVVVtxD-a4hqtuNgnXdX5XLBDe_1KMlVmP82sea_8fOVJgFw4UxCi5NIkZ7zE71uthJS3DWLsZuC2Bl2hed3Lc4s0lg72f5B6Jzegi78_n_g9LCbotphymbBa7xhFTEGzKgqb8MPCyQNja24VpinmJgK1_xyLvbS4hjL6XVSIS6MxuOmVwH3rrEW6PP762EF9vTXwFMC4pJu3LvTddmFJVu9squnW_7oiK9B9joXyeyH0XTYk_kdiSZxUgDGOj-2j77DMQHWRUhkLnUPGgN0FM9EVs1QoGhToRFuWT5B4Qmmmw%3D%3D)
@@ -31,9 +31,9 @@ Here are some of the sites and services I use across the web to make my life eas
 
 ## Microsoft 365
 
-If you are an end user in need of email and are looking into Office 365, I can save you some money on an ongoing basis. Just click [here](mailto:ewan@effectivesolutions.scot).
+If you are an end user in need of email and are looking into Office 365, I can save you some money on an ongoing basis. Just click [here](mailto:hello@effectivesolutions.scot?subject=Office%20365:%20Customer%20enquiry&body=Hello.%20Please%20contact%20me%20about%20setting%20up%20email%20accounts%20through%20Office%20365.).
 
-If you are an MSP or IT service provider wishing to offer 365 without all the overhead of being a full Microsoft partner, get in touch [here](mailto:ewan@effectivesolutions.scot) and I can set you up under my platform.
+If you are an MSP or IT service provider wishing to offer 365 without all the overhead of being a full Microsoft partner, get in touch [here](mailto:hello@effectivesolutions.scot?subject=Office%20365:%20CSP%20enquiry&body=Hello.%20Please%20contact%20me%20about%20setting%20up%20a%20CSP%20reseller%20account%20for%20Office%20365.) and I can set you up under my platform.
 
 ### Small print
 

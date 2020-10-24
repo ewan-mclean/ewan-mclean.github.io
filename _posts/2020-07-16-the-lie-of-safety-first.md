@@ -3,8 +3,6 @@ layout: post
 title: The universal lie of "Safety First"
 ---
 
-## Safety first
-
 >Your safety is our number one priority. Please ride your motorcycle responsibly, safely and always obey local traffic rules.
 
 [Source](https://cache.tradeinn.com/images/pdf/manuales/eng_akrapovic_manu_S-H10SO7T-HTC.pdf)

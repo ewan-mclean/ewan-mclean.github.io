@@ -25,10 +25,10 @@ footer-links:
   instagram:
   linkedin: ewanmclean
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: test # just type anything here for a working RSS icon
   twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow: users/19811481/ewan-mclean # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCtQe3ZKqkH9zOws1WTgEOPw # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics: UA-72117152-3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://ewan.scot
+url: https://ewan.scot
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

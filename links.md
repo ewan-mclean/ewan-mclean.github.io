@@ -44,4 +44,4 @@ If you are an MSP or IT service provider wishing to offer 365 without all the ov
 
 ### Small print
 
-For transparency, many of these links are affiliate/referral links so I might get a few quid if you sign up using it. However this will never cost you anything, and I only mention tools that I believe in anyway.
+For transparency, some of these links are affiliate/referral links so I might get a few quid if you sign up using it. However this will never cost you anything, and I only mention tools that I believe in anyway.

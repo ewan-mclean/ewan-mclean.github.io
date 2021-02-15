@@ -1,18 +1,11 @@
 ---
 layout: page
-title: Referral links
-permalink: /referrals/
+title: Links
+permalink: /links/
 ---
 
-Here are some of the sites and services I use across the web to make my life easier:
+Here are some of the sites and services I use online and offline to make my life easier:
 
-* [Monzo](http://monzo.me/ewanmclean)
-* [Topcashback](https://www.topcashback.co.uk/ref/ewantcb)
-* [Money Saving Eexpert](https://forums.moneysavingexpert.com/)
-* [Curve](https://www.curve.com/join#DG8VALGD)
-* [American Express (AMEX) credit and charge cards](http://amex.co.uk/refer/eWANMyJg5?XLINK=MYCP)
-* [Awardwallet](https://awardwallet.com/?refCode=0a4r9ay1eo) Get a year free!
-* [Moneydashboard](https://share.moneydashboard.com/4SD2K6BV)
 * [Apple Music](https://music.apple.com/profile/ewanmclean)
 * Microsoft's CSP programme. If you'd like to become a CSP without all the overhead, get in touch and I can set you up under my platform.
 * [Twilio](http://www.twilio.com/referral/C5whw3)
@@ -25,6 +18,16 @@ Here are some of the sites and services I use across the web to make my life eas
 * [Marriott Bonvoy](http://jmr2.netlinkrg.com/rewardafriend/s/EN?ref=f9c392ee-2741-487c-af39-57996c115f5b)
 * [Gandi](https://gandi.link/f/3360f9b3)
 * [Cloudways](https://vrlps.co/PUqIZeV/cp)
+
+## Finances
+
+* [Monzo](http://monzo.me/ewanmclean)
+* [Topcashback](https://www.topcashback.co.uk/ref/ewantcb)
+* [Money Saving Eexpert](https://forums.moneysavingexpert.com/)
+* [Curve](https://www.curve.com/join#DG8VALGD)
+* [American Express (AMEX) credit and charge cards](http://amex.co.uk/refer/eWANMyJg5?XLINK=MYCP)
+* [Awardwallet](https://awardwallet.com/?refCode=0a4r9ay1eo) Get a year free!
+* [Moneydashboard](https://share.moneydashboard.com/4SD2K6BV)
 
 ## Freshworks suite
 

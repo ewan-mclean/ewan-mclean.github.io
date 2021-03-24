@@ -28,6 +28,7 @@ Here are some of the sites and services I use online and offline to make my life
 * [American Express (AMEX) credit and charge cards](http://amex.co.uk/refer/eWANMyJg5?XLINK=MYCP)
 * [Awardwallet](https://awardwallet.com/?refCode=0a4r9ay1eo) Get a year free!
 * [Moneydashboard](https://share.moneydashboard.com/4SD2K6BV)
+* [Honey](http://go.ewan.scot/honey)
 
 ## Freshworks suite
 

@@ -19,6 +19,7 @@ Here are some of the sites and services I use online and offline to make my life
 * [Gandi](https://gandi.link/f/3360f9b3)
 * [Cloudways](https://vrlps.co/PUqIZeV/cp)
 * [Get a discount code for £10 off at Huel](https://t.mention-me.email/lnk/AL8AAKbCDtsAAcolbagAAI7E0EQAAO87QCkAAAAAAAEZ0gBg1Q6kUqw6apZfRgm5zoodSYdyogABD9s/1/5MD-K7lZA5HzbDXLrxzEbQ/aHR0cHM6Ly9odWVsLm1lbnRpb24tbWUuY29tL20vZmUveXQ4cnUtZXdhbi1tY2xlYW4_dXRtX2NhbXBhaWduPXJlZmVycmVyLWZvcndhcmQtZW1haWwmdXRtX21lZGl1bT1ub25vZmZlcnNwZWNpZmljJnV0bV9zb3VyY2U9aHVlbCZ1dG1fY29udGVudD1jdGEmdXRtX3Rlcm09bm9udXNlcnNwZWNpZmlj)
+* [Get £50 on Virgin fibre!](http://aklam.io/oOvmQR)
 
 ## Finances
 
